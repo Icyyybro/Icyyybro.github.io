@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>java基础概念与常识</title>
+      <link href="/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/"/>
+      <url>/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="基础概念与常识"><a href="#基础概念与常识" class="headerlink" title="基础概念与常识"></a>基础概念与常识</h1><h1 id="1-JVM与JDK与JRE"><a href="#1-JVM与JDK与JRE" class="headerlink" title="1. JVM与JDK与JRE"></a>1. JVM与JDK与JRE</h1><h2 id="1-1-JVM"><a href="#1-1-JVM" class="headerlink" title="1.1 JVM"></a>1.1 JVM</h2><p>JVM是java虚拟机，是运行java字节码的虚拟机。JVM会针对不同的操作系统开发不同版本的JVM，目的是在不同操作系统上运行相同的字节码都会给出相同的结果。</p><p>同时，不同的编程语言都可以生成字节码，并运行在jvm上</p><p><img src="/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/image_I2PrrZf6yR.png"></p><h2 id="1-2-JDK"><a href="#1-2-JDK" class="headerlink" title="1.2 JDK"></a>1.2 JDK</h2><p>jdk全称为Java Development Kit，是java开发工具包。它包含了：JRE（java runtime environment），编译器javac和其他工具。</p><h2 id="1-3-JRE"><a href="#1-3-JRE" class="headerlink" title="1.3 JRE"></a>1.3 JRE</h2><p>jre是java运行已编译java程序的环境，主要包括：JVM，java基础类库。</p><h2 id="1-4-JDK和JRE的关系"><a href="#1-4-JDK和JRE的关系" class="headerlink" title="1.4 JDK和JRE的关系"></a>1.4 JDK和JRE的关系</h2><p><img src="/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/image_nYdCCkPCQa.png"></p><h1 id="2-字节码"><a href="#2-字节码" class="headerlink" title="2. 字节码"></a>2. 字节码</h1><h2 id="2-1-定义"><a href="#2-1-定义" class="headerlink" title="2.1 定义"></a>2.1 定义</h2><p>字节码就是java程序编译后生成的.class文件。字节码只面向JVM虚拟机。</p><h2 id="2-2-好处"><a href="#2-2-好处" class="headerlink" title="2.2 好处"></a>2.2 好处</h2><p>字节码只面向JVM虚拟机，不面向任何特定处理器。这样会在一定程度上解决了传统解释型语言执行效率低的问题，同时又保留了解释型语言可移植的特点。</p><h2 id="2-3-java程序运行过程-x20"><a href="#2-3-java程序运行过程-x20" class="headerlink" title="2.3 java程序运行过程&#x20;"></a>2.3 java程序运行过程&#x20;</h2><p><img src="/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/image_l-yZMFDxNr.png"></p><h2 id="2-4-解释器与JIT"><a href="#2-4-解释器与JIT" class="headerlink" title="2.4 解释器与JIT"></a>2.4 解释器与JIT</h2><p>在.class文件到机器码这一步中，JVM首先加载字节码的文件，然后通过解释器逐行解释代码，这种逐行解释的方式较慢，所以引入了JIT（just in time）编译器，JIT属于运行时编译。当 JIT 编译器完成第一次编译后，其会将字节码对应的机器码保存下来，下次可以直接使用。</p><p>这里补充一下解释器和编译器的区别：</p><ul><li>编译器将字节码<strong>一次性翻译成完整的机器码</strong>。</li><li>解释器逐条将字节码翻译为机器码，再执行。</li></ul><p>从.class → 机器码这一过程可以看出，java既使用了编译器，又使用了解释器，所以java是编译与解释共存的语言。</p><p><img src="/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/image_1SrpaNkuzr.png"></p><h1 id="3-AOT"><a href="#3-AOT" class="headerlink" title="3. AOT"></a>3. AOT</h1><h2 id="3-1-AOT是什么"><a href="#3-1-AOT是什么" class="headerlink" title="3.1 AOT是什么"></a>3.1 AOT是什么</h2><p>AOT全称为ahead of time compilation，意思是在程序被执行前就将其编译成机器码，属于静态编译（类似于C++）</p><h2 id="3-2-AOT优点"><a href="#3-2-AOT优点" class="headerlink" title="3.2 AOT优点"></a>3.2 AOT优点</h2><p>AOT 的主要优势在于启动时间、内存占用和打包体积。</p><ul><li>AOT避免了JIT预热的开销，提高了java的启动速度。</li><li>减少内存占用：JIT和解释器都需要用字节码，而AOT模式在程序部署前就已经编译为本地机器码，不需要解释器和JIT编译器。</li><li>增强程序安全性：很难反编译。</li></ul><h2 id="3-3-AOT与JIT"><a href="#3-3-AOT与JIT" class="headerlink" title="3.3 AOT与JIT"></a>3.3 AOT与JIT</h2><p>AOT 编译无法支持 Java 的一些动态特性，如反射、动态代理。而很多框架都要用到这些动态特性，如spring。</p><p>JIT具备更高的极限处理能力（JIT可以记录很多热点代码）</p><h1 id="4-java和C-区别"><a href="#4-java和C-区别" class="headerlink" title="4. java和C++区别"></a>4. java和C++区别</h1><ul><li>java中不提供指针访问内存，线程更加安全</li><li>java的类是单继承，C++的类可以多继承。但是java的接口可以多继承</li><li>java可以自动回收内存</li><li>C++支持方法重载和运算符重载，java只支持方法重载。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 后端开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇博客</title>
       <link href="/2024/11/30/%E5%85%B6%E4%BB%96/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2024/11/30/%E5%85%B6%E4%BB%96/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
