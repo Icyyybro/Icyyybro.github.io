@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-12-03T14:23:02.132Z</updated>
+  <updated>2024-12-05T14:27:10.887Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Tue Dec 03 2024 00:00:00 GMT+0800 (香港标准时间)</title>
+    <title>page</title>
+    <link href="http://example.com/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/"/>
+    <id>http://example.com/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/</id>
+    <published>2024-12-05T14:25:28.000Z</published>
+    <updated>2024-12-05T14:27:10.887Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="面向对象基础"><a href="#面向对象基础" class="headerlink" title="面向对象基础"></a>面向对象基础</h1><h1 id="1-面向对象和面向过程"><a href="#1-面向对象和面向过程" class="headerlink" title="1. 面向对象和面向过程"></a>1. 面向对象和面向过程</h1><h2 id="1-1-定义"><a href="#1-1-定义" class="headerlink" title="1.1 定义"></a>1.1 定义</h2><ul><li><strong>面向过程编程（POP）</strong>：面向过程把解决问题的过程拆成一个个方法，通过一个个方法的执行解决问题。</li><li><strong>面向对象编程（OOP）</strong>：面向对象会先抽象出对象，然后用对象执行方法的方式解决问题。</li></ul><h2 id="1-2-面向对象优点"><a href="#1-2-面向对象优点" class="headerlink" title="1.2 面向对象优点"></a>1.2 面向对象优点</h2><ul><li><strong>易维护</strong>：由于良好的结构和封装性，OOP 程序通常更容易维护。</li><li><strong>易复用</strong>：通过继承和多态，OOP 设计使得代码更具复用性，方便扩展功能。</li><li><strong>易扩展</strong>：模块化设计使得系统扩展变得更加容易和灵活。</li></ul><h1 id="2-面向对象三大特征"><a href="#2-面向对象三大特征" class="headerlink" title="2. 面向对象三大特征"></a>2. 面向对象三大特征</h1><h2 id="2-1-封装"><a href="#2-1-封装" class="headerlink" title="2.1 封装"></a>2.1 封装</h2><p>将对象的属性隐藏在对象内部，不允许外部对象直接访问对象内部的信息，但可以通过这个对象提供的方法操作属性。</p><h2 id="2-2-继承"><a href="#2-2-继承" class="headerlink" title="2.2 继承"></a>2.2 继承</h2><p>继承是在已存在的类的定义作为基础创建新类，新类可以增加新的数据和功能，也可以使用父类功能。</p><p>注意：</p><ul><li>子类拥有父类所有属性和方法（包括私有属性和方法），但是不能访问父类的私有属性和方法。</li></ul><h2 id="2-3-多态"><a href="#2-3-多态" class="headerlink" title="2.3 多态"></a>2.3 多态</h2><p>多态，顾名思义，表示一个对象具有多种的状态，具体表现为父类的引用指向子类的实例。</p><p>多态特点：</p><ul><li>对象类型和引用类型之间具有继承（类）&#x2F;实现（接口）的关系</li><li>引用类型变量发出的方法调用的到底是哪个类中的方法，必须在程序运行期间才能确定</li><li>多态不能调用“只在子类存在但在父类不存在”的方法</li><li>如果子类重写了父类的方法，真正执行的是子类重写的方法，如果子类没有重写父类的方法，执行的是父类的方法</li></ul><h1 id="3-接口和抽象类"><a href="#3-接口和抽象类" class="headerlink" title="3. 接口和抽象类"></a>3. 接口和抽象类</h1><h2 id="3-1-共同点"><a href="#3-1-共同点" class="headerlink" title="3.1 共同点"></a>3.1 共同点</h2><ul><li>实例化：接口和抽象类都不能直接实例化，只能被实现或继承后才能创建具体的对象。</li><li>抽象方法：接口和抽象类都可以包含抽象方法。抽象方法没有方法体，必须在子类或实现类中实现。</li></ul><h2 id="3-2-不同点"><a href="#3-2-不同点" class="headerlink" title="3.2 不同点"></a>3.2 不同点</h2><ul><li>设计目的：接口主要用于对类的行为进行约束，你实现了某个接口就具有了对应的行为。抽象类主要用于代码复用，强调的是所属关系。</li><li>继承和实现：类只能单继承，接口可以多继承。同时一个类可以实现多个接口。</li><li>成员变量：接口中的成员变量只能是public static final类型，不能被修改且必须有初始值。抽象类就没有这个限制。</li><li>方法：JAVA8之前，接口的方法只能是方法声明。JAVA8起，可以在接口中定义default方法和static方法。JAVA9起，接口可以包含private方法。</li></ul><h1 id="4-深拷贝，浅拷贝，引用拷贝"><a href="#4-深拷贝，浅拷贝，引用拷贝" class="headerlink" title="4. 深拷贝，浅拷贝，引用拷贝"></a>4. 深拷贝，浅拷贝，引用拷贝</h1><h2 id="4-1-定义"><a href="#4-1-定义" class="headerlink" title="4.1 定义"></a>4.1 定义</h2><ul><li>深拷贝：深拷贝会完全复制整个对象，包括这个对象所包含的内部对象。</li><li>浅拷贝：浅拷贝会在堆上创建一个新的对象（区别于引用拷贝的一点），不过，如果原对象内部的属性是引用类型的话，浅拷贝会直接复制内部对象的引用地址，也就是说拷贝对象和原对象共用同一个内部对象。</li><li>引用拷贝：新开一个引用指向需要拷贝的对象。</li></ul><p>拷贝实现可以实现Cloneable接口中的clone方法。</p><h2 id="4-2-比较"><a href="#4-2-比较" class="headerlink" title="4.2 比较"></a>4.2 比较</h2><p><img src="/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/image_PyFqFWSnD2.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;面向对象基础&quot;&gt;&lt;a href=&quot;#面向对象基础&quot; class=&quot;headerlink&quot; title=&quot;面向对象基础&quot;&gt;&lt;/a&gt;面向对象基础&lt;/h1&gt;&lt;h1 id=&quot;1-面向对象和面向过程&quot;&gt;&lt;a href=&quot;#1-面向对象和面向过程&quot; class=&quot;header</summary>
+      
+    
+    
+    
+    <category term="后端开发" scheme="http://example.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="java基础" scheme="http://example.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="java" scheme="http://example.com/tags/java/"/>
+    
+    <category term="面向对象" scheme="http://example.com/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2024年12月3日</title>
     <link href="http://example.com/2024/12/03/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024-12-03/"/>
     <id>http://example.com/2024/12/03/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024-12-03/</id>
     <published>2024-12-03T14:22:10.000Z</published>
-    <updated>2024-12-03T14:23:02.132Z</updated>
+    <updated>2024-12-03T14:25:51.106Z</updated>
     
-    <content type="html"><![CDATA[<p>今天上午去健身房锻炼了一上午，推肩时候没有拿稳哑铃，导致指甲给砸肿了。不过令我烦躁的不在这，而是健身太浪费时间了，一上午的时间全浪费在健身了，以后得早起先去实验室学一会了。</p><p>下午2：00开始学习，今天学了苍穹外卖项目中的自定义注解，同时涉及到反射等知识，收获颇多，晚上刷了几道leetcode就开始背java八股了。</p><p>这几天总是在纠结未来的就业方向，到底是做搜广推还是java后端开发。这两个我都不排斥，想做搜广推的原因是薪资高，但是我怕我实习不够，又没有论文，这样竞争力会小很多；开发则相对稳定，但是薪资会比开发少。还有最主要的一个问题是氛围问题，研究生实验室的学长学姐都是做的开发，如果一个人做算法感觉没有人指导，没有氛围。</p><p>我这几天还在担心我的毕设问题，一直想赶快解决，但是又无从下手，没有创新点，而且仿真平台一直报错，我打算这几天找一篇用开环数据集做的模型复现一下，然后自己想一个创新点加进去，完成这个毕设，然后下学期一定一定要找实习了。</p>]]></content>
+    <content type="html"><![CDATA[<p>今天上午去健身房锻炼了一上午，推肩时候没有拿稳哑铃，导致指甲给砸肿了。不过令我烦躁的不在这，而是健身太浪费时间了，一上午的时间全浪费在健身了，以后得早起先去实验室学一会了。</p><p>下午2：00开始学习，今天学了苍穹外卖项目中的自定义注解，同时涉及到反射等知识，收获颇多，晚上刷了几道leetcode就开始背java八股了。</p><p>这几天总是在纠结未来的就业方向，到底是做搜广推还是java后端开发。这两个我都不排斥，想做搜广推的原因是薪资高，但是我怕我实习不够，又没有论文，这样竞争力会小很多；开发则相对稳定，但是薪资会比开发少。还有最主要的一个问题是氛围问题，研究生实验室的学长学姐都是做的开发，如果一个人做算法感觉没有人指导，没有氛围。其实我感觉无论我选择什么方向，我未来都会后悔的，因为人总是会美化自己从没有走过的道路。</p><p>我这几天还在担心我的毕设问题，一直想赶快解决，但是又无从下手，没有创新点，而且仿真平台一直报错，我打算这几天找一篇用开环数据集做的模型复现一下，然后自己想一个创新点加进去，完成这个毕设，然后下学期一定一定要找实习了。</p>]]></content>
     
     
       
