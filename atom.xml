@@ -3,11 +3,11 @@
   <title>Icyyybro</title>
   
   <subtitle>欢迎来到Yichuan Wang的世界</subtitle>
-  <link href="https://icyyybro.github.io/atom.xml" rel="self"/>
+  <link href="https://yichuan.wiki/atom.xml" rel="self"/>
   
-  <link href="https://icyyybro.github.io/"/>
+  <link href="https://yichuan.wiki/"/>
   <updated>2025-01-19T12:30:21.379Z</updated>
-  <id>https://icyyybro.github.io/</id>
+  <id>https://yichuan.wiki/</id>
   
   <author>
     <name>YiChuan Wang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>2024年12月7日</title>
-    <link href="https://icyyybro.github.io/2024/12/07/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024%E5%B9%B412%E6%9C%887%E6%97%A5/"/>
-    <id>https://icyyybro.github.io/2024/12/07/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024%E5%B9%B412%E6%9C%887%E6%97%A5/</id>
+    <link href="https://yichuan.wiki/2024/12/07/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024%E5%B9%B412%E6%9C%887%E6%97%A5/"/>
+    <id>https://yichuan.wiki/2024/12/07/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024%E5%B9%B412%E6%9C%887%E6%97%A5/</id>
     <published>2024-12-07T06:23:52.000Z</published>
     <updated>2025-01-19T12:30:21.379Z</updated>
     
@@ -31,16 +31,16 @@
     
     
     
-    <category term="生活随笔" scheme="https://icyyybro.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    <category term="生活随笔" scheme="https://yichuan.wiki/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="感悟" scheme="https://icyyybro.github.io/tags/%E6%84%9F%E6%82%9F/"/>
+    <category term="感悟" scheme="https://yichuan.wiki/tags/%E6%84%9F%E6%82%9F/"/>
     
   </entry>
   
   <entry>
     <title>面向对象基础</title>
-    <link href="https://icyyybro.github.io/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/"/>
-    <id>https://icyyybro.github.io/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/</id>
+    <link href="https://yichuan.wiki/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/"/>
+    <id>https://yichuan.wiki/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/</id>
     <published>2024-12-05T14:25:28.000Z</published>
     <updated>2024-12-05T14:36:23.306Z</updated>
     
@@ -54,21 +54,21 @@
     
     
     
-    <category term="后端开发" scheme="https://icyyybro.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="后端开发" scheme="https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
-    <category term="java基础" scheme="https://icyyybro.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/"/>
+    <category term="java基础" scheme="https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="java" scheme="https://icyyybro.github.io/tags/java/"/>
+    <category term="java" scheme="https://yichuan.wiki/tags/java/"/>
     
-    <category term="面向对象" scheme="https://icyyybro.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    <category term="面向对象" scheme="https://yichuan.wiki/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
     
   </entry>
   
   <entry>
     <title>2024年12月3日</title>
-    <link href="https://icyyybro.github.io/2024/12/03/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024-12-03/"/>
-    <id>https://icyyybro.github.io/2024/12/03/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024-12-03/</id>
+    <link href="https://yichuan.wiki/2024/12/03/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024-12-03/"/>
+    <id>https://yichuan.wiki/2024/12/03/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/2024-12-03/</id>
     <published>2024-12-03T14:22:10.000Z</published>
     <updated>2025-01-19T12:30:07.224Z</updated>
     
@@ -79,19 +79,19 @@
     
     
     
-    <category term="生活随笔" scheme="https://icyyybro.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    <category term="生活随笔" scheme="https://yichuan.wiki/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="生活随笔" scheme="https://icyyybro.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    <category term="生活随笔" scheme="https://yichuan.wiki/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="每日记录" scheme="https://icyyybro.github.io/tags/%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/"/>
+    <category term="每日记录" scheme="https://yichuan.wiki/tags/%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
   <entry>
     <title>java基本数据类型</title>
-    <link href="https://icyyybro.github.io/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
-    <id>https://icyyybro.github.io/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
+    <link href="https://yichuan.wiki/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    <id>https://yichuan.wiki/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
     <published>2024-12-03T11:35:55.000Z</published>
     <updated>2024-12-03T11:38:20.472Z</updated>
     
@@ -105,19 +105,19 @@
     
     
     
-    <category term="后端开发" scheme="https://icyyybro.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="后端开发" scheme="https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
-    <category term="java基础" scheme="https://icyyybro.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/"/>
+    <category term="java基础" scheme="https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="java" scheme="https://icyyybro.github.io/tags/java/"/>
+    <category term="java" scheme="https://yichuan.wiki/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>java自定义注解</title>
-    <link href="https://icyyybro.github.io/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/java%20%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3/"/>
-    <id>https://icyyybro.github.io/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/java%20%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3/</id>
+    <link href="https://yichuan.wiki/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/java%20%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3/"/>
+    <id>https://yichuan.wiki/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/java%20%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3/</id>
     <published>2024-12-03T11:26:20.000Z</published>
     <updated>2024-12-03T11:38:06.411Z</updated>
     
@@ -131,19 +131,19 @@
     
     
     
-    <category term="后端开发" scheme="https://icyyybro.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="后端开发" scheme="https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
-    <category term="苍穹项目笔记" scheme="https://icyyybro.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E8%8B%8D%E7%A9%B9%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/"/>
+    <category term="苍穹项目笔记" scheme="https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E8%8B%8D%E7%A9%B9%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="java" scheme="https://icyyybro.github.io/tags/java/"/>
+    <category term="java" scheme="https://yichuan.wiki/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>java基础概念与常识</title>
-    <link href="https://icyyybro.github.io/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/"/>
-    <id>https://icyyybro.github.io/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/</id>
+    <link href="https://yichuan.wiki/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/"/>
+    <id>https://yichuan.wiki/2024/12/02/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86/</id>
     <published>2024-12-02T11:17:32.000Z</published>
     <updated>2024-12-03T11:33:03.966Z</updated>
     
@@ -157,19 +157,19 @@
     
     
     
-    <category term="后端开发" scheme="https://icyyybro.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="后端开发" scheme="https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
-    <category term="java基础" scheme="https://icyyybro.github.io/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/"/>
+    <category term="java基础" scheme="https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="java" scheme="https://icyyybro.github.io/tags/java/"/>
+    <category term="java" scheme="https://yichuan.wiki/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="https://icyyybro.github.io/2024/11/30/%E5%85%B6%E4%BB%96/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://icyyybro.github.io/2024/11/30/%E5%85%B6%E4%BB%96/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://yichuan.wiki/2024/11/30/%E5%85%B6%E4%BB%96/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://yichuan.wiki/2024/11/30/%E5%85%B6%E4%BB%96/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2024-11-30T14:25:41.000Z</published>
     <updated>2024-11-30T14:37:32.290Z</updated>
     
@@ -184,10 +184,10 @@
     
     
     
-    <category term="其他" scheme="https://icyyybro.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+    <category term="其他" scheme="https://yichuan.wiki/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-    <category term="生活随笔" scheme="https://icyyybro.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    <category term="生活随笔" scheme="https://yichuan.wiki/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
