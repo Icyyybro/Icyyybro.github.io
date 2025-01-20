@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yichuan.wiki/2025/01/20/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/%E7%B4%A2%E5%BC%95%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</loc>
+    
+    <lastmod>2025-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yichuan.wiki/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2025-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yichuan.wiki/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/java%20%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3/</loc>
     
     <lastmod>2025-01-19</lastmod>
@@ -30,15 +48,6 @@
   
   <url>
     <loc>https://yichuan.wiki/2024/11/30/%E5%85%B6%E4%BB%96/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2025-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yichuan.wiki/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/</loc>
     
     <lastmod>2025-01-19</lastmod>
     
@@ -121,7 +130,7 @@
 
   <url>
     <loc>https://yichuan.wiki/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,35 +138,49 @@
   
   <url>
     <loc>https://yichuan.wiki/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yichuan.wiki/tags/%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yichuan.wiki/tags/%E6%84%9F%E6%82%9F/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yichuan.wiki/tags/java/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yichuan.wiki/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yichuan.wiki/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yichuan.wiki/tags/MySQL/</loc>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -165,36 +188,36 @@
 
   
   <url>
-    <loc>https://yichuan.wiki/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <loc>https://yichuan.wiki/categories/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yichuan.wiki/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <loc>https://yichuan.wiki/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2025-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E8%8B%8D%E7%A9%B9%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2025-01-19</lastmod>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
