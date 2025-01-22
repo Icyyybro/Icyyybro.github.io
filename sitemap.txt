@@ -1,3 +1,4 @@
+https://yichuan.wiki/2025/01/22/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB/
 https://yichuan.wiki/2025/01/20/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/%E7%B4%A2%E5%BC%95%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/
 https://yichuan.wiki/2024/12/05/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80/
 https://yichuan.wiki/2024/12/03/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/java%20%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3/
@@ -14,8 +15,8 @@ https://yichuan.wiki/about/index.html
 https://yichuan.wiki/tags/index.html
 https://yichuan.wiki/
 https://yichuan.wiki/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/
-https://yichuan.wiki/tags/%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/
 https://yichuan.wiki/tags/%E6%84%9F%E6%82%9F/
+https://yichuan.wiki/tags/%E6%AF%8F%E6%97%A5%E8%AE%B0%E5%BD%95/
 https://yichuan.wiki/tags/java/
 https://yichuan.wiki/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/
 https://yichuan.wiki/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/
@@ -23,5 +24,5 @@ https://yichuan.wiki/tags/MySQL/
 https://yichuan.wiki/categories/%E5%85%B6%E4%BB%96/
 https://yichuan.wiki/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/
 https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/
-https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E8%8B%8D%E7%A9%B9%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/
 https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/java%E5%9F%BA%E7%A1%80/
+https://yichuan.wiki/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E8%8B%8D%E7%A9%B9%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/
